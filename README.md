@@ -38,6 +38,15 @@ Here we aim to curate a list of projects that can serve as inspiration for other
 
 *Examples of how charities are using AI to create chatbots.*
 
+* [Citizen advice uses Caddy AI to help their advisors](https://github.com/Citizens-Advice-SORT/caddy-chatbot)
+  * **Challenge**: Advisors spending excessive time searching through internal documentation for client queries
+  * **Solution**: AI co-pilot that provides answers from verified sources, with supervisor review before client delivery
+  * **Key Learnings**:
+    - Human guardrails (supervisor review) effectively mitigate hallucination risks
+    - Team training is crucial as prompt quality affects answer quality
+    - **Risks**: Bias in answers and data privacy concerns
+  * **Impact**: [Reduced phone waiting times by 50%](https://news.sky.com/story/phone-waiting-times-for-public-services-could-be-cut-in-half-after-successful-ai-trial-minister-suggests-13323464)
+
 ## Web applications
 
 *Examples of how charities are using AI to create web applications.*
