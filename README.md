@@ -12,6 +12,7 @@ Here we aim to curate a list of projects that can serve as inspiration for other
 * [Data dashboarding](#data-dashboarding)
 * [Chatbots](#chatbots)
 * [Web applications](#web-applications)
+* [Prototyping](#prototyping)
 
 ***
 
@@ -60,3 +61,15 @@ Here we aim to curate a list of projects that can serve as inspiration for other
     - **Risks**: Hallucinations (plausible but inaccurate information) and data protection concerns
   * **Bonus**
     - If your charity has any use cases on generating pre formatted letters or forms, this is a great example of how to do it.
+
+## Prototyping
+
+*Examples of how charities can AI to prototype new ideas.*
+
+* [Using langflow (no code low code tool to prototype RAG application)](https://github.com/KindTechUK/langflow-prototype-examples)
+  * **Challenge**: Quickly testing whether a GenAI application concept is viable without extensive development
+  * **Solution**: No-code drag-and-drop framework for prototyping RAG applications in under an hour
+  * **Key Learnings**:
+    - Visual canvas interface similar to Figma/Miro makes AI prototyping accessible
+    - Shared "flows" enable knowledge transfer and rapid iteration
+    - Perfect for testing Q&A applications on existing content (e.g., Citizen Advice benefits pages)
