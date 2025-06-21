@@ -19,6 +19,17 @@ Here we aim to curate a list of projects that can serve as inspiration for other
 
 *Examples of how charities are using AI to analyse data.*
 
+* [38D quantitative and qualitative analysis of the NHS survey](https://home.38degrees.org.uk/2025/01/29/nhs-10-year-plan-consultation-the-publics-view/)
+  * **Challenge**: Analyzing 40,000 NHS service satisfaction surveys with free-text responses
+  * **Solution**: Used Claude and ChatGPT for thematic analysis of qualitative data
+  * **Key Learnings**: 
+    - Models excel at high-level theme identification but need guidance for nuanced coding
+    - Personal data protection is critical when sharing prompts with third-party AI
+    - Success requires iteration, output review, and clear guidance (e.g., predefined topic categories)
+  * **Bonus** 
+    - Scorll to the end of the report and all the prompts they used are in the appendix.
+    - [Tests of large and small language models on common evaluation tasks](https://merltech.org/event-recap-tests-of-large-and-small-language-models-on-common-evaluation-tasks/?utm_source=merltech&utm_medium=email&utm_campaign=nlp-cop-newsletter-21) is a great read on how to structure the qualitative text analysis better
+
 ## Data dashboarding
 
 *Examples of how charities are using AI to create data dashboards.*
