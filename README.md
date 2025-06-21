@@ -41,3 +41,13 @@ Here we aim to curate a list of projects that can serve as inspiration for other
 ## Web applications
 
 *Examples of how charities are using AI to create web applications.*
+
+* [Chayn uses AI apps to help take down online content](https://tools.chayn.co/)
+  * **Challenge**: Helping victims of image-based abuse create formal takedown letters
+  * **Solution**: AI-powered web application that generates templated content based on user input
+  * **Key Learnings**:
+    - Built in just 7 days using AI-powered development tools (Cursor/Windsurf)
+    - Rapid prototyping makes AI solutions more accessible to charities
+    - **Risks**: Hallucinations (plausible but inaccurate information) and data protection concerns
+  * **Bonus**
+    - If your charity has any use cases on generating pre formatted letters or forms, this is a great example of how to do it.
