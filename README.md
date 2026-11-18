@@ -13,6 +13,7 @@ Here we aim to curate a list of projects that can serve as inspiration for other
 * [Chatbots](#chatbots)
 * [Web applications](#web-applications)
 * [Prototyping](#prototyping)
+* [Add a use case](#add-a-use-case)
 
 ***
 
@@ -73,3 +74,7 @@ Here we aim to curate a list of projects that can serve as inspiration for other
     - Visual canvas interface similar to Figma/Miro makes AI prototyping accessible
     - Shared "flows" enable knowledge transfer and rapid iteration
     - Perfect for testing Q&A applications on existing content (e.g., Citizen Advice benefits pages)
+
+## Add a use case
+
+Know of a charity using AI well, or one that learned a hard lesson? Please add it. You do not need to be technical. The [contributing guide](CONTRIBUTING.md) shows how.
